@@ -30,7 +30,7 @@ function Navbar() {
         <div className="flex lg:flex">
      <div className="left h-screen w-[20vw] lg:w-[55vw]">
       <div className="h-[36vh] lg:h-[50vh] w-[80vw] lg:w-[47vw] mt-0 lg:mt-40 ml-[10vw]  lg:ml-16">
-      <img className="h-full w-full pt-20 lg:pt-0" src="src\assets\images\man.jpg" alt="img" />
+      <img className="h-full w-full pt-20 lg:pt-0" src="./man.jpg" alt="img" />
       </div>
      </div>
      <div className="right h-screen w-[50vw] lg:w-[45vw] absolute lg:relative ">  

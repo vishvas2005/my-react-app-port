@@ -4,7 +4,7 @@ import { FaArrowRightLong } from 'react-icons/fa6'
 function Parts() {
   return <>    <div className='h-fit w-[50vw] bg-red-400 ml-[10vw] lg:ml-20 mt-20 rounded-xl overflow-hidden'>
      <video
-        src=".\src\assets\videos\sunsshine.mp4"
+        src=".\src\public\videos\sunsshine.mp4"
         autoPlay
         loop
         muted
@@ -13,7 +13,7 @@ function Parts() {
     </div>
     <div className='h-fit w-[50vw] ml-[45vw]  rounded-xl overflow-hidden mt-20'>
     <video
-        src=".\src\assets\videos\service.mp4"
+        src=".\src\public\videos\service.mp4"
         autoPlay
         loop
         muted
@@ -22,7 +22,7 @@ function Parts() {
     </div>
     <div className='h-fit w-[50vw] ml-[10vw] lg:ml-20 mt-20 rounded-xl overflow-hidden'>
      <video className='w-[60vw]'
-        src=".\src\assets\videos\port (online-video-cutter.com) (1).mp4"
+        src=".\src\public\videos\port (online-video-cutter.com) (1).mp4"
         autoPlay
         loop
         muted

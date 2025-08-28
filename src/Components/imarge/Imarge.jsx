@@ -4,7 +4,7 @@ function Imarge() {
   return (
     <div className='h-fit w-full bg-[#131313]'>
       <div className="image h-[100vh] w-[85vw] pt-20 mx-auto relative overflow-hidden rounded-md">
-        <img className='md:h-[60vh] md:w-full h-[34vh] w-[92vw] rounded-md' src="src\assets\images\studioSectionImage.webp" alt="" />
+        <img className='md:h-[60vh] md:w-full h-[34vh] w-[92vw] rounded-md' src="./studioSectionImage.webp" alt="" />
         <h1 className='text-[33px] w-[80vw] md:w-[70vw] md:text-[60px] font-[pp1] text-white absolute top-36 md:top-52 left-3 md:left-32 leading-none md:leading-1 text-center '>I AM CREATOR OF MEANING
         AND THIS IS MY MANIFESTO</h1>
       </div>

@@ -41,7 +41,7 @@ function Holla() {
     <>
       <div className='md:flex h-[120vh] md:h-screen w-full bg-black relative overflow-hidden'>
         <div className="left md:h-screen w-[80vw] md:w-[40vw] mt-28 ml-10 md:ml-20">
-          <img src="src/assets/images/loop.gif" alt="" />
+          <img src="./loop.gif" alt="" />
         </div>
         <div className="right h-screen md:h-screen w-[40vw] ml-0 md:ml-10">
           <h1 className='text-white text-[30px] font-[pp1] ml-10 md:ml-20 mt-8 md:mt-52'>HELLO!</h1>
