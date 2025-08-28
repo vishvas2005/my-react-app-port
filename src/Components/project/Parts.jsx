@@ -4,7 +4,7 @@ import { FaArrowRightLong } from 'react-icons/fa6'
 function Parts() {
   return <>    <div className='h-fit w-[50vw] bg-red-400 ml-[10vw] lg:ml-20 mt-20 rounded-xl overflow-hidden'>
      <video
-        src=".\src\public\videos\sunsshine.mp4"
+        src="./public\sunsshine.mp4"
         autoPlay
         loop
         muted
